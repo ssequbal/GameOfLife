@@ -1,0 +1,6 @@
+Compile and Run instructions 
+1.To compile locate the folder in terminal or console.
+2.Type “ javac *.java”
+3.To run type “java Life iteration dimension pattern
+   Example  
+		java Life 100 100 P
